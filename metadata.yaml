@@ -1,0 +1,28 @@
+_repo: The-Letters-of-her-Mother-to-Elizabeth_41302
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trowbridge, W. R. H. (William Rutherford Hayes)
+    alias: Trowbridge, William Rutherford Hayes
+    birthdate: 1866
+    deathdate: 1938
+    gutenberg_agent_id: '41990'
+    url: http://www.gutenberg.org/2009/agents/41990
+description: ''
+gutenberg_issued: '2012-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41302'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Epistolary fiction'
+title: The Letters of Her Mother to Elizabeth
+url: http://www.gutenberg.org/ebooks/41302
